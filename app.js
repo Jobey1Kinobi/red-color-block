@@ -38,5 +38,5 @@ function WhenIclickTheYellowButton() {
     $('#yellowCount').text('Yellow Count: ' + yellowCount);
     $('#container').append('<div class="boxed yellow"></div>');
 }
-
+ let ColorBoxRocks = {}
 console.log(ColorBoxRocks);
