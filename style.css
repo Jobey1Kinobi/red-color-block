@@ -4,7 +4,36 @@
     display: inline-block;
     margin: 5px;
 }
-
 .red {
     background-color: red;
+}
+
+.boxer {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 5px;
+}
+.blue {
+    background-color: blue;
+}
+
+.boxes{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 5px;
+}
+.green{
+    background-color: green;
+}
+
+.boxed{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 5px;
+}
+.yellow{
+    background-color: yellow;
 }
